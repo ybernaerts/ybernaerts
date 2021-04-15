@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ybernaerts
 - 👀 I’m interested in neuroscience, machine learning and crypto.
-- 🌱 I’m currently learning into finding the best model parameters so that my model output gets close to what my experimental collaboraters actually observe. This involves a
+- 🌱 I’m currently digging into finding the best model parameters so that my model output gets close to what my experimental collaboraters actually observe. This involves a
       great deal of training neural networks.
 - 💞️ You can always reach out to me if you'd like to know more on how to organize your data to do inference, or if you think I might be interested in helping you out building this
       new crypto project (but I'm just learning Solidity (!) ).
