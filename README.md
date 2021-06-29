@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ybernaerts
 - 👀 I’m interested in neuroscience, machine learning and crypto.
 - 🌱 I’m currently digging into finding the best model parameters so that my model output gets close to what my experimental collaboraters actually observe. This involves a
-      great deal knowing when a neural network works how you'd like it to work.
+      a great deal of understadning when a neural network works how you'd like it to work.
 - 💞️ You can always reach out to me if you'd like to know more on how to organize your data to do inference, or if you think I might be interested in helping you out building this
       new crypto project (but I'm just learning Solidity (!) ).
 - 📫 You can reach over yves.bernaerts@uni-tuebingen.de .
