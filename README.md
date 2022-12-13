@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ybernaerts
-- 👀 I’m interested in the intersectino of neuroscience with machine learning.
+- 👀 I’m interested in the intersection of neuroscience with machine learning.
 - 🌱 Most of my work you can find in the lab I'm currently a PhD student at [here](https://github.com/berenslab). I’m currently digging into finding the best model parameters
-      so that my model output gets close to what my experimental collaboraters actually observe. This involves a
-      a great deal of understadning when a neural network works how you'd like it to work.
+      so that my model output gets close to what my experimental collaboraters actually observe. This involves solving model misspeficiation.
 - 💞️ You can always reach out to me if you'd like to know more on how to organize your data to do inference.
 - 📫 You can reach me over yves.bernaerts@uni-tuebingen.de .
 
